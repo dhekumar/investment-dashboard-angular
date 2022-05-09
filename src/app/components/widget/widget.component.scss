@@ -1,0 +1,14 @@
+:host{
+    width:50%;
+    margin: 20px;
+    border:1px solid #f2efef;
+    border-radius: 5px 5px 0px 0px ;
+    .widget-header{
+        background-color:#f2efef;
+        padding: 10px;
+        border-radius: 5px 5px 0px 0px ;
+    }
+    .widget-body{
+        padding: 10px;
+    }
+}
